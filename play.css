@@ -1,0 +1,57 @@
+#myId {
+    text-align: center;
+    color: brown;
+    background-color: blanchedalmond;
+    border: 2px solid rgb(225, 143, 143);
+    justify-content: start;
+    align-content: flex-start;
+}
+
+.studySection { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: gray;
+   background-image: url("Nature-Wallpaper.jpg");
+   background-position: center;
+   background-size: cover;
+    
+}
+
+.box {
+    border : 2px solid rgba(7, 5, 5, 0.418) ;
+    height: 400px;
+    width : 48% ;
+    text-align: center;
+    background-color: white;
+    padding: 20px 0px 15px 0px ;
+    margin-top: 15px; 
+    margin-bottom: 15px;
+}
+
+.bgimage {
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 5px;
+
+}
+.box1{
+    color: white;
+    background-color: rgb(14, 14, 70);
+}
+
+.box2{
+    color: white;
+    background-color: rgb(8, 47, 244);
+}
+
+.box3{
+    color: white;
+    background-color: rgb(45, 45, 48);
+}
+
+.box4{
+    color: white;
+    background-color: rgb(7, 205, 63);
+}
